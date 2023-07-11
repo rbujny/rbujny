@@ -9,16 +9,18 @@ Currently focused on [Asia's Art]([https://github.com/wireapp/wire-webapp](https
 - 🔭 I’m currently looking for a job as **Junior PHP Developer**
 - 🌱 I’m currently learning more about **Symfony**
 - 💬 Ask me about **Football ⚽, Basketball 🏀 and music 🎵**
-- 📫 How to reach me:  
+- 📫 How to reach me:
+
+
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/radoslaw-bujny/)](https://www.linkedin.com/in/radoslaw-bujny/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:r.bujny@gmail.com)](mailto:r.bujny@gmail.com)
 
 
 ## 🔥 Stack
 
-[![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)](https://github.com/rbujny)
-[![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3&logoColor=white)](https://github.com/rbujny)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&logoColor=white)](https://github.com/rbujny)
+[![HTML5](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/rbujny)
+[![CSS3](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)](https://github.com/rbujny)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/rbujny)
 
 [![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)](https://github.com/rbujny)
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://github.com/rbujny)
