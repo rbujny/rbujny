@@ -4,7 +4,7 @@ I'm **Radosław Bujny**
 I'm an **IT** student at **Poznań University of Technology**.  
 **Python 🐍** and **PHP 🐘** enjoyer
 
-Currently focused on [Asia's Art]([https://github.com/wireapp/wire-webapp](https://github.com/rbujny/AsiaArt)) in **PHP 🐘**.
+Currently focused on [**Asia's Art**]([https://github.com/wireapp/wire-webapp](https://github.com/rbujny/AsiaArt)) in **PHP 🐘**.
 
 - 🔭 I’m currently looking for a job as **Junior PHP/Python Developer**
 - 🌱 I’m currently learning more about **Symfony**
