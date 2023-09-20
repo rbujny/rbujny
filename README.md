@@ -4,10 +4,10 @@ I'm **Radosław Bujny**
 I'm an **IT** student at **Poznań University of Technology**.  
 **Python 🐍** and **PHP 🐘** enjoyer
 
-Currently focused on new project in **PHP 🐘**.
+Currently focused on working in **PHP 🐘** and **.NET 🟣** .
 
 - 🔭 I’m currently working as **Junior PHP Developer** at Vercom
-- 🌱 I’m currently learning more about **Symfony**
+- 🌱 I’m currently learning more about **.NET and C# 🟣**
 - 💬 Ask me about **Football ⚽, Basketball 🏀 and music 🎵**
 - 📫 How to reach me:
 
